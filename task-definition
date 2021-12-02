@@ -13,11 +13,11 @@
         }
       ],
       "command": null,
-      "image": "matthewabq/twistlock-fargate:18_11",
-      "name": "twistlock-fargate-18_11"
+      "image": "cmalvia/pcc-demo:v1",
+      "name": "pcc-demo:v1"
     }
   ],
-  "family": "twistlock-fargate-18_11",
+  "family": "pcc-demo:v1",
   "volumes": [],
   "networkMode": "awsvpc",
   "memory": "512",
